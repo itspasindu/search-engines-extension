@@ -1,0 +1,8 @@
+{
+    "extension_name": { "message": "Quick Search Engines" },
+    "extension_description": { "message": "Access popular search engines in one click." },
+    "add_engine": { "message": "Add New Search Engine" },
+    "engine_name_placeholder": { "message": "Engine Name" },
+    "engine_url_placeholder": { "message": "Engine URL" },
+    "add_button": { "message": "Add" }
+}

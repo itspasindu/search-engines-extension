@@ -1,0 +1,8 @@
+{
+    "extension_name": { "message": "Moteurs de recherche rapides" },
+    "extension_description": { "message": "Accédez rapidement aux moteurs de recherche populaires." },
+    "add_engine": { "message": "Ajouter un moteur de recherche" },
+    "engine_name_placeholder": { "message": "Nom du moteur" },
+    "engine_url_placeholder": { "message": "URL du moteur" },
+    "add_button": { "message": "Ajouter" }
+}
